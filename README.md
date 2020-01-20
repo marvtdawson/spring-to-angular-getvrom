@@ -7,7 +7,7 @@ created using the Java programming language and various tools and frameworks.
 
 ## BETA GetVROM Application
 
-This application was design as a test project to getvrom (implemenation pending).  
+This application was design as a test project to getvrom (implementation pending).  
 
 #### Project Structure
 Spring Boot 5 & Angular 6 +
@@ -51,8 +51,8 @@ The application capture various class fields such as:
 * MultiLingual Application using JSP & Servlets
 * Build A Complete Database Web App with JDBC using JSP & Servlets
 * Spring REST CRUD Application
-* Android Java Button Counter App
-* Android Java Calculator App
+* <a href="https://github.com/marvtdawson/android-java-button-counter">Android Java Button Counter App</a>
+* <a href="https://github.com/marvtdawson/android-java-calculatorapp">Android Java Calculator App</a>
 * Android Java Top 10 Downloaded App
 * Android Java YouTube App
 * Android Java Flicker App
